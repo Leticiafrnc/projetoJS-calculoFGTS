@@ -14,7 +14,7 @@ Esse projeto foi desenvolvido para estudo com o objetivo treinar JS
 ### 🏁 Instalação
 
 Antes de começar, é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
-Clone este repositório usando git clone: https://github.com/Leticiafrnc/contagem-regressiva-ano-novo.git ou clique em Code/Download ZIP. Clique no arquivo "index.HTML" e veja a aplicação.
+Clone este repositório usando git clone:https://github.com/Leticiafrnc/projetoJS-calculoFGTS.git ou clique em Code/Download ZIP. Clique no arquivo "index.HTML" e veja a aplicação.
 
 ### 🛠 Tecnologias
 
