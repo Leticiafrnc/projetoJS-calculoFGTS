@@ -1,4 +1,4 @@
-# Calculo - FGTS
+# Cálculo - FGTS
 Esse projeto foi desenvolvido para estudo com o objetivo treinar JS
  o ano novo.
  
